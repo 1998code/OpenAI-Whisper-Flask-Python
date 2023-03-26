@@ -62,7 +62,7 @@ def transcribeToVTT():
 
     # Save the uploaded audio file to a temporary location
     temp_dir = tempfile.mkdtemp()
-    audio_path = os.path.join(temp_dir, 'audio.mp3')
+    audio_path = os.path.join(temp_dir, 'audio')
     audio_file.save(audio_path)
 
    # Transcribe the audio file
@@ -79,4 +79,4 @@ def transcribeToVTT():
 
 if __name__ == '__main__':
     from waitress import serve
-    serve(app, host="0.0.0.0", port=8081)
+    serve(app, host="0.0.0.0", port=8080)
