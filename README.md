@@ -1,2 +1,2 @@
-# OpenAI-Whisper-Flask-Python
-Experimental Project for speech-to-text
+# Transcription-Python
+Experimental Project for speech-to-text based on OpenAI Whisper
