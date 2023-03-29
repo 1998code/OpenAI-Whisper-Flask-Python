@@ -42,7 +42,7 @@ def transcribe():
 
     # Save the uploaded audio file to a temporary location
     temp_dir = tempfile.mkdtemp()
-    audio_path = os.path.join(temp_dir, 'audio.mp3')
+    audio_path = os.path.join(temp_dir, 'audio')
     audio_file.save(audio_path)
 
     # Transcribe the audio file
