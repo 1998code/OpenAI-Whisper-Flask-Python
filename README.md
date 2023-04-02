@@ -1,13 +1,11 @@
-<img width="1494" alt="CleanShot 2023-04-03 at 03 19 30@2x" src="https://user-images.githubusercontent.com/54872601/229374242-2d715302-3c26-4216-9db7-7c85ad5c39a5.png">
+<img width="1550" alt="CleanShot 2023-04-03 at 03 23 35@2x" src="https://user-images.githubusercontent.com/54872601/229374456-ab0fb63e-cf69-4ca8-9ccc-1da558513163.png">
 
----
-title: Transcription
-emoji: 🐠
-colorFrom: yellow
-colorTo: blue
-sdk: gradio
-sdk_version: 3.23.0
-app_file: app.py
-pinned: false
-license: mit
----
+# Transcription
+### SDK: gradio 3.23.0
+
+### Get Started
+```python
+pip3 install -r requirements.txt
+```
+
+### License: mit
