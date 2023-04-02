@@ -1,5 +1,5 @@
 ---
-title: Transcription App
+title: Transcription
 emoji: 🐠
 colorFrom: yellow
 colorTo: blue
