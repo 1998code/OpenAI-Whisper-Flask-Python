@@ -1,2 +1,13 @@
-# Transcription-Python
-Experimental Project for speech-to-text based on OpenAI Whisper
+---
+title: Whisper
+emoji: 🐠
+colorFrom: yellow
+colorTo: blue
+sdk: gradio
+sdk_version: 3.23.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

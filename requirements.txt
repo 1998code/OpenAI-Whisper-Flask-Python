@@ -1,4 +1,4 @@
-flask
-waitress
+gradio
 openai-whisper
 ffmpeg-python
+numpy==1.23
